@@ -9,7 +9,8 @@ The main difference between traditional linear regression and Bayesian regressio
 - Very effective when the size of the dataset is small.
 - Particularly well-suited for on-line based learning (data is received in real-time), as compared to batch-based learning, where we have the entire dataset on our hands before we start training the model. This is because Bayesian Regression doesn’t need to store data.
 - The Bayesian approach is a tried and tested approach and is very robust, mathematically. So, one can use this without having any extra prior knowledge about the dataset.
-- Bayesian regression methods employ skewed distributions that let you include outside information in your model. 
+- Bayesian regression methods employ skewed distributions that let you include outside information in your model.
+- Bayesian regression can handle outliers and influential observations more effectively compared to classical regression methods. It provides a more robust approach to regression analysis, as extreme or influential observations have a lesser impact on the estimation.
 
 ## Disadvantages of Bayesian Regression:  
 - The inference of the model can be time-consuming.
