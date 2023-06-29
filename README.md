@@ -4,8 +4,7 @@ Bayesian regression is a type of linear regression that uses Bayesian statistics
 
 In the Bayesian viewpoint, we formulate linear regression using probability distributions rather than point estimates. The response, y, is not estimated as a single value, but is assumed to be drawn from a probability distribution. The model for Bayesian Linear Regression with the response sampled from a normal distribution is:
 
-![image](https://github.com/prakalps/Bayesian_LinearRegression/assets/42130402/b24f68ee-19ae-4afc-a665-97755e9bc604)
-
+![image](https://github.com/prakalps/Bayesian_LinearRegression/assets/42130402/4eac80b4-868c-4b52-8529-54569c601106)
 
 The main difference between traditional linear regression and Bayesian regression is the underlying assumption regarding the data-generating process. Traditional linear regression assumes that data follows a Gaussian or normal distribution, while Bayesian regression has stronger assumptions about the nature of the data and puts a prior probability distribution on the parameters. Bayesian regression also enables more flexibility as it allows for additional parameters or prior distributions, and can be used to construct an arbitrarily complex model that explicitly expresses prior beliefs about the data. Additionally, Bayesian regression provides more accurate predictive measures from fewer data points and is able to construct estimates for uncertainty around the estimates. 
 
